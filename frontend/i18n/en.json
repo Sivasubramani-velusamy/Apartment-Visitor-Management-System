@@ -1,0 +1,18 @@
+{
+  "addVisitor": "Add Visitor",
+  "visitorHistory": "Visitor History",
+  "securityDashboard": "Security Dashboard",
+  "name": "Name",
+  "phone": "Phone",
+  "photo": "Photo",
+  "dateTimeOfVisit": "Date & Time of Visit",
+  "emergencyAlert": "Emergency Alert",
+  "sendPass": "Send Pass",
+  "useTemplate": "Use Template",
+  "scanQR": "Scan QR",
+  "allowEntry": "Allow Entry",
+  "denyEntry": "Deny Entry",
+  "enterOTP": "Enter OTP",
+  "searchVisitor": "Search Visitor",
+  "languageSelector": "Language Selector"
+}

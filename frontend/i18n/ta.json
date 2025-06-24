@@ -1,0 +1,18 @@
+{
+  "addVisitor": "விருந்தினர் சேர்க்கவும்",
+  "visitorHistory": "விருந்தினர் வரலாறு",
+  "securityDashboard": "பாதுகாப்பு டாஷ்போர்டு",
+  "name": "பெயர்",
+  "phone": "தொலைபேசி",
+  "photo": "புகைப்படம்",
+  "dateTimeOfVisit": "தேதி மற்றும் நேரம்",
+  "emergencyAlert": "அவசர எச்சரிக்கை",
+  "sendPass": "பாஸ் அனுப்பு",
+  "useTemplate": "வாராந்திர வார்ப்புரு பயன்படுத்தவும்",
+  "scanQR": "QR ஸ்கேன் செய்யவும்",
+  "allowEntry": "நுழைவு அனுமதி",
+  "denyEntry": "நுழைவு மறுப்பு",
+  "enterOTP": "OTP உள்ளிடவும்",
+  "searchVisitor": "விருந்தினரை தேடவும்",
+  "languageSelector": "மொழி தேர்வாளர்"
+}
